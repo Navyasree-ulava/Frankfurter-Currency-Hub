@@ -21,7 +21,8 @@ Select base and target currencies from the dropdown.
 Enter the amount to convert and get real-time results.
 Check historical trends, fluctuations, and currency strength.
 Save favorite pairs, track past conversions, and enable dark mode.
--> Live Demo: [Live Demo]([https://navyasree-ulava.github.io/Frankfurter-Currency-Hub/](https://navyasree-ulava.github.io/Frankfurter-Currency-Hub/Frankfurter%20Currency%20Hub/index.html))
+
+-> Live Demo: [Live Demo](https://navyasree-ulava.github.io/Frankfurter-Currency-Hub/Frankfurter%20Currency%20Hub/index.html)
 
 -> Repository: [Click here to view the repository](https://github.com/Navyasree-ulava/Frankfurter-Currency-Hub/tree/main)
 
