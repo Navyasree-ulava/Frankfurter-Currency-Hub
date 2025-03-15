@@ -24,5 +24,6 @@ Save favorite pairs, track past conversions, and enable dark mode.
 
 -> Live Demo: [Live Demo](https://navyasree-ulava.github.io/Frankfurter-Currency-Hub/Frankfurter%20Currency%20Hub/index.html)
 
--> Repository: [Click here to view the repository]([https://github.com/Navyasree-ulava/Frankfurter-Currency-Hub/tree/main](https://github.com/Navyasree-ulava/Frankfurter-Currency-Hub/tree/main/Frankfurter%20Currency%20Hub))
+-> Repository: [Click here to view the repository](https://github.com/Navyasree-ulava/Frankfurter-Currency-Hub/tree/main/Frankfurter%20Currency%20Hub)
+
 
