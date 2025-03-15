@@ -1,0 +1,77 @@
+/* General Styles */
+body {
+    background-color: #f8f9fa;
+    color: #333;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #0d6efd;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  /* Dark Mode Styles */
+  body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  .dark-mode .card {
+    background-color: #1e1e1e;
+    color: #ffffff;
+  }
+  
+  .dark-mode .card-header {
+    background-color: #333;
+    color: #ffffff;
+  }
+  
+  .dark-mode .table {
+    background-color: #1e1e1e;
+    color: #ffffff;
+  }
+  
+  .dark-mode .table th,
+  .dark-mode .table td {
+    border-color: #444;
+  }
+  
+  .dark-mode .table-hover tbody tr:hover {
+    background-color: #333;
+  }
+  
+  .dark-mode .btn-secondary {
+    background-color: #444;
+    border-color: #444;
+  }
+  
+  /* Animations */
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
+  .fade-in {
+    animation: fadeIn 0.5s ease-in;
+  }
